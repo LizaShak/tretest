@@ -1,0 +1,3 @@
+[submodule "AzureTRE"]
+	path = AzureTRE
+	url = https://github.com/microsoft/AzureTRE.git
